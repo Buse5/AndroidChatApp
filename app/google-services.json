@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395905938161",
+    "firebase_url": "https://sohbet-ebc4b.firebaseio.com",
+    "project_id": "sohbet-ebc4b",
+    "storage_bucket": "sohbet-ebc4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395905938161:android:f12c4110a95cc94176ef50",
+        "android_client_info": {
+          "package_name": "com.example.sohbetuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395905938161-0p1a8p1ag9l2v43s57setpldasq4acdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ndkpMaMdxwxMDmNdw4XBZQsZs3ajCD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395905938161-0p1a8p1ag9l2v43s57setpldasq4acdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
