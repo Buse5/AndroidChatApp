@@ -19,7 +19,8 @@ KAYIT EKRANI
 
 KULLANICI PROFİLİ EKRANI
 
-![KullaniciProfilEkrani](https://user-images.githubusercontent.com/57727223/149509533-290564ec-3ee2-4e98-b9ea-8246f9fca8cb.png)
+![KullaniciProfilEkrani](https://user-images.githubusercontent.com/57727223/149510086-c69b0665-d5f7-413a-a1fd-4052fdebfd80.png)
+
 
 PROFİL EKRANI
 
