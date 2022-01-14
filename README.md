@@ -23,5 +23,6 @@ KULLANICI PROFİLİ EKRANI
 
 PROFİL EKRANI
 
-![ProfilEkrani](https://user-images.githubusercontent.com/57727223/149509554-0172f6e0-ba30-4589-a4f4-a60aff5e79b8.png)
+![ProfilEkrani](https://user-images.githubusercontent.com/57727223/149510030-5b7fce94-f3c4-4398-acf7-7d27dd07bc08.png)
+
 
